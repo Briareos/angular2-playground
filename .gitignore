@@ -1,0 +1,6 @@
+/.idea/
+/typings/*
+!/typings/tsd.d.ts
+/node_modules/
+/dist/
+/bower_components/
